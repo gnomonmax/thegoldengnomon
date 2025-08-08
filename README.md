@@ -1,6 +1,6 @@
 # The Golden Gnomon — Maximum Genetic Diversity (MGD) Theory
 
-This is the official repository for **thegoldengnomon.com**, the public hub for the **Maximum Genetic Diversity (MGD)** theory and the **genetic equidistance phenomenon**.
+This is the official repository for **goldengnomon.com**, the public hub for the **Maximum Genetic Diversity (MGD)** theory and the **genetic equidistance phenomenon**.
 
 Our mission is to explain, document, and share the evidence for MGD — a framework for understanding biodiversity, human origins, and molecular evolution.
 
@@ -23,7 +23,7 @@ Our goal in evolutionary biology is to uncover the “gnomon” that drives the 
 
 ## 🌐 Website
 This repo powers the official site via **GitHub Pages**:
-**[thegoldengnomon.com](https://thegoldengnomon.com)**
+**[goldengnomon.com](https://goldengnomon.com)**
 
 ---
 
